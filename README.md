@@ -7,6 +7,8 @@ sdk_version: 5.44.0
 
 # Deep Research System - AI-Powered Research Automation Platform
 
+🚀 **[Try the Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/AkhilGunda16/Deep_Research_Agent)**
+
 ## Project Overview
 
 The Deep Research System is a sophisticated, multi-agent artificial intelligence platform that demonstrates advanced software engineering principles, AI integration, and scalable architecture design. This project showcases expertise in modern Python development, asynchronous programming, AI agent orchestration, and full-stack web application development.
@@ -28,6 +30,8 @@ User Query → Research Orchestrator → AI Agents → Final Report
 ```
 
 ### How It Works
+
+🎯 **[Try It Now - Live Demo](https://huggingface.co/spaces/AkhilGunda16/Deep_Research_Agent)**
 
 1. **User Input**: Enter research question in Gradio interface
 2. **Strategy Planning**: AI agent creates optimal search strategy (3-7 queries)
@@ -142,6 +146,11 @@ User Query → Research Orchestrator → AI Agents → Final Report
 - **Gradio 5.0+**: Cutting-edge web framework for AI applications
 - **OpenAI API**: Integration with state-of-the-art AI models
 
+### Live Deployment
+- **🌐 [Hugging Face Spaces](https://huggingface.co/spaces/AkhilGunda16/Deep_Research_Agent)**: Interactive demo available for immediate testing
+- **Cloud Infrastructure**: Deployed on Hugging Face's scalable platform
+- **Public Access**: Available 24/7 for demonstration and evaluation
+
 ### Development Practices
 - **Git Workflow**: Professional version control and collaboration
 - **Environment Management**: Proper dependency isolation and management
@@ -168,6 +177,13 @@ The system represents a significant achievement in AI-powered automation and dem
 
 ---
 
+## 🚀 Quick Start
+
+**[Access Live Demo](https://huggingface.co/spaces/AkhilGunda16/Deep_Research_Agent)** - No installation required, try it immediately!
+
+---
+
 **Technologies Used**: Python 3.11+, OpenAI GPT-4, Gradio, asyncio, Pydantic, uv  
 **Architecture**: Multi-Agent System, Asynchronous Workflow, Modular Design  
-**Complexity**: Advanced (Multi-module, Concurrent Processing, AI Integration)
+**Complexity**: Advanced (Multi-module, Concurrent Processing, AI Integration)  
+**Live Demo**: [Hugging Face Spaces](https://huggingface.co/spaces/AkhilGunda16/Deep_Research_Agent)
